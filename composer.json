@@ -1,0 +1,19 @@
+{
+    "name": "jpeng/ajax-php",
+    "autoload": {
+        "psr-4": {
+            "Jpeng\\AjaxPhp\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Joe Pereira",
+            "email": "96992081+JoePereiraa@users.noreply.github.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "app\\": "app"
+        }
+    }
+}
